@@ -17,7 +17,7 @@ O projeto serve como material de apoio para estudos e futuras implementações n
 ### 🔹 Etapa 2: Configuração de Rede e TLS
 - Sub-rede virtual, tipo de conexão Proxy, versão mínima TLS, e ponto público de dados.
 
-![Rede e TLS](imagens/instancia_sql_mi_rede.png)
+![Rede e TLS]![Image](https://github.com/user-attachments/assets/92cb69de-3959-4553-8a60-c45886d80352)
 
 ---
 
