@@ -10,7 +10,7 @@ O projeto serve como material de apoio para estudos e futuras implementações n
 ### 🔹 Etapa 1: Dados básicos da Instância SQL MI
 - Informações sobre assinatura, recurso, vCores, armazenamento, custo mensal e autenticação.
 
-![Dados básicos](imagens/instancia_sql_mi_basico.png)
+![Dados básicos]![Image](https://github.com/user-attachments/assets/95c13969-b035-44d1-bfd6-6dcb364b67f1)
 
 ---
 
