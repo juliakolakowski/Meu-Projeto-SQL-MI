@@ -24,7 +24,7 @@ O projeto serve como material de apoio para estudos e futuras implementações n
 ### 🔹 Etapa 3: Segurança
 - Criptografia, identidade gerenciada, chaves e dados avançados.
 
-![Segurança](imagens/instancia_sql_mi_segurança.png)
+![Segurança]![Image](https://github.com/user-attachments/assets/178d9c80-03c1-4a2c-bc9f-942514570b33)
 
 ---
 
