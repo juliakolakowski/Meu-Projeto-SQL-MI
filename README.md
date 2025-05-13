@@ -31,7 +31,7 @@ O projeto serve como material de apoio para estudos e futuras implementações n
 ### 🔹 Etapa 4: Tela de Criação Final da Instância
 - Janela de manutenção, política de atualização e informações do projeto.
 
-![Criação da instância](imagens/instancia_sql_mi_criacao.png)
+![Criação da instância]![Image](https://github.com/user-attachments/assets/8c7d60ab-7e7e-4a38-a113-789d0d955f2d)
 
 ---
 
